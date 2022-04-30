@@ -14,3 +14,6 @@
 
 
 -2021 카카오 채용연계형 인턴십: [숫자 문자열과 영단어](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java)
+
+
+-2019 KAKAO BLIND RECRUITMENT: [실패율](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2019%20KAKAO%20BLIND%20RECRUITMENT/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)

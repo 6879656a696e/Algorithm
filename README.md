@@ -18,6 +18,9 @@
 -2020 카카오 인턴십: [키패드 누르기](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.java)
 
 
+-2020 KAKAO BLIND RECRUITMENT: [문자열 압축](https://github.com/6879656a696e/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/60057.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%95%95%EC%B6%95)
+
+
 -2021 카카오 채용연계형 인턴십: [숫자 문자열과 영단어](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2021%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84%ED%98%95%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%EC%88%AB%EC%9E%90%20%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%20%EC%98%81%EB%8B%A8%EC%96%B4.java)
 
 

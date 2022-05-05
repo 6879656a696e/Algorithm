@@ -11,6 +11,7 @@
 
 -2019 KAKAO BLIND RECRUITMENT: [실패율](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2019%20KAKAO%20BLIND%20RECRUITMENT/%EC%8B%A4%ED%8C%A8%EC%9C%A8.java)
 
+-2019 KAKAO BLIND RECRUITMENT: [오픈채팅방](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2019%20KAKAO%20BLIND%20RECRUITMENT/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java)
 
 -2019 카카오 개발자 겨울 인턴십: [크레인 인형뽑기 게임](https://github.com/6879656a696e/Algorithm/blob/main/Programmers/KAKAO/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.java)
 
